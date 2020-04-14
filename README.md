@@ -1,6 +1,6 @@
 # cs1660-courseproject
 
-VIDEO WALKTHROUGH LINK: https://www.youtube.com/channel/UCZt6u-RpkO6So0g5bvJ1ZyQ And select "1660 Code Walkthrough"
+VIDEO WALKTHROUGH LINK: https://youtu.be/3QCxyooI7lM And select "1660 Code Walkthrough"
 
 Requirements Completed:
 1. Edit WordCount to do Inverted Indexing
